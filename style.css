@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+   
+    width:400px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 20px;
+    flex-direction: column;
+    background-color: azure;    
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+.txt{
+    color: black;  
+}
+.digit{
+    color: rgba(0,0,0,0.4);
+}
