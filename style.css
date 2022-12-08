@@ -30,3 +30,14 @@ h2{
 .digit{
     color: rgba(0,0,0,0.4);
 }
+
+#buttons{
+    margin-top: 20px;
+}
+
+.btn{
+    border-radius: 5px;
+    padding:4px;
+    margin-left: 6px;
+}
+
